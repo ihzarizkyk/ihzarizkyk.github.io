@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Ihza Rizky Blog</title>
+		<link>https://ihzarizkyk.github.io/</link>
+		<description>Recent content on ihzarizkyk.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Fri, 25 Sep 2020 19:27:04 +0700</lastBuildDate>
+		
+		<atom:link href="https://ihzarizkyk.github.io/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://ihzarizkyk.github.io/artikel/test/</link>
+			<pubDate>Fri, 25 Sep 2020 19:27:04 +0700</pubDate>
+			
+			<guid>https://ihzarizkyk.github.io/artikel/test/</guid>
+			<description>
+				
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna ali...
+				
+			</description>
+		</item>
+		<item>
+			<title>9 Pilar Utama Business Model Canvas</title>
+			<link>https://ihzarizkyk.github.io/artikel/9-pilar-bmc/</link>
+			<pubDate>Thu, 24 Sep 2020 19:18:48 +0700</pubDate>
+			
+			<guid>https://ihzarizkyk.github.io/artikel/9-pilar-bmc/</guid>
+			<description>
+				
+				Business Model Canvas Adalah Media yang digunakan untuk memetakan rencana suatu bisnis usaha yang berisi mulai dari Cust...
+				
+			</description>
+		</item>
+		<item>
+			<title>Kamus Startup Digital</title>
+			<link>https://ihzarizkyk.github.io/artikel/kamus-startup/</link>
+			<pubDate>Thu, 24 Sep 2020 06:48:07 +0700</pubDate>
+			
+			<guid>https://ihzarizkyk.github.io/artikel/kamus-startup/</guid>
+			<description>
+				
+				Startup Digital adalah Perusahaan Rintisan yang berumur 3 - 5 tahun yang memanfaatkan kecanggihan Teknologi untuk member...
+				
+			</description>
+		</item>
+		<item>
+			<title>Portfolio Saya</title>
+			<link>https://ihzarizkyk.github.io/portfolio/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ihzarizkyk.github.io/portfolio/</guid>
+			<description>
+				
+				Masih Dalam Proses
+
+				
+			</description>
+		</item>
+		<item>
+			<title>Tentang Saya</title>
+			<link>https://ihzarizkyk.github.io/tentang/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://ihzarizkyk.github.io/tentang/</guid>
+			<description>
+				
+				Nama :
+Mochammad Ihza Rizky Karim
+Domisili :
+Sidoarjo, Jawa Timur
+Pendidikan Saat ini :
+S1 Sistem Informasi - ITTelkom S...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
