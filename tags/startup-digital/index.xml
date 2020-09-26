@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Artikels on Ihza Rizky Blog</title>
-		<link>https://ihzarizkyk.github.io/artikel/</link>
-		<description>Recent content in Artikels on ihzarizkyk.github.io</description>
+		<title>Startup Digital on Ihza Rizky Blog</title>
+		<link>https://ihzarizkyk.github.io/tags/startup-digital/</link>
+		<description>Recent content in Startup Digital on ihzarizkyk.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<lastBuildDate>Sat, 26 Sep 2020 11:53:54 +0700</lastBuildDate>
+		<lastBuildDate>Sat, 26 Sep 2020 06:58:31 +0700</lastBuildDate>
 		
-		<atom:link href="https://ihzarizkyk.github.io/artikel/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://ihzarizkyk.github.io/tags/startup-digital/index.xml" rel="self" type="application/rss+xml" />
 		
-		<item>
-			<title>Membuat Folder Public Hugo</title>
-			<link>https://ihzarizkyk.github.io/artikel/membuat-folder-public-hugo/</link>
-			<pubDate>Sat, 26 Sep 2020 11:53:54 +0700</pubDate>
-			
-			<guid>https://ihzarizkyk.github.io/artikel/membuat-folder-public-hugo/</guid>
-			<description>
-				
-				 Folder Public merupakan folder hasil render dari file-file markdown Hugo yang nantinya akan digunakan untuk deploy ke h...
-				
-			</description>
-		</item>
 		<item>
 			<title>9 Pilar Business Model Canvas</title>
 			<link>https://ihzarizkyk.github.io/artikel/9-pilar-bmc/</link>

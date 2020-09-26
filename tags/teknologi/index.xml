@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Ihza Rizky Blog</title>
-		<link>https://ihzarizkyk.github.io/</link>
-		<description>Recent content on ihzarizkyk.github.io</description>
+		<title>Teknologi on Ihza Rizky Blog</title>
+		<link>https://ihzarizkyk.github.io/tags/teknologi/</link>
+		<description>Recent content in Teknologi on ihzarizkyk.github.io</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sat, 26 Sep 2020 11:53:54 +0700</lastBuildDate>
 		
-		<atom:link href="https://ihzarizkyk.github.io/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="https://ihzarizkyk.github.io/tags/teknologi/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Membuat Folder Public Hugo</title>
@@ -43,36 +43,6 @@
 			<description>
 				
 				 Startup Digital adalah Perusahaan Rintisan yang berumur 3 - 5 tahun yang memanfaatkan kecanggihan Teknologi untuk membe...
-				
-			</description>
-		</item>
-		<item>
-			<title>Portfolio Saya</title>
-			<link>https://ihzarizkyk.github.io/portfolio/</link>
-			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			
-			<guid>https://ihzarizkyk.github.io/portfolio/</guid>
-			<description>
-				
-				Masih Dalam Proses
-
-				
-			</description>
-		</item>
-		<item>
-			<title>Tentang Saya</title>
-			<link>https://ihzarizkyk.github.io/tentang/</link>
-			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			
-			<guid>https://ihzarizkyk.github.io/tentang/</guid>
-			<description>
-				
-				Nama :
-Mochammad Ihza Rizky Karim
-Domisili :
-Sidoarjo, Jawa Timur
-Pendidikan Saat ini :
-S1 Sistem Informasi - ITTelkom S...
 				
 			</description>
 		</item>
