@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<meta name="generator" content="Hugo 0.75.1" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="keywords" content="Tutorial,Teknologi,Hugo"><meta name="description" content=""><meta property="og:title" content="Deploy Hugo Ke Github" />
+<meta property="og:description" content="Github memiliki layanan hosting untuk website statis yang bernama github pages. Nah, nantinya file hasil render dari folder public hugo akan di repository github pages.
+Begini Caranya :
+1. Buat Repository dan beri namawebsite.github.io yang nantinya akan disambungkan dengan github pages. pastikan Visibilitynya Public, karena jika private anda harus upgrade langganan pro.
+2. Buka pages.github.com dan klik Github repository. setelah itu anda akan diarahkan ke github.com untuk memilih repo yang telah dibuat pada langkah pertama tadi." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://ihzarizkyk.github.io/artikel/deploy-hugo-ke-github/" />
+<meta property="article:published_time" content="2020-09-27T09:18:54+07:00" />
+<meta property="article:modified_time" content="2020-09-27T09:18:54+07:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Deploy Hugo Ke Github"/>
+<meta name="twitter:description" content="Github memiliki layanan hosting untuk website statis yang bernama github pages. Nah, nantinya file hasil render dari folder public hugo akan di repository github pages.
+Begini Caranya :
+1. Buat Repository dan beri namawebsite.github.io yang nantinya akan disambungkan dengan github pages. pastikan Visibilitynya Public, karena jika private anda harus upgrade langganan pro.
+2. Buka pages.github.com dan klik Github repository. setelah itu anda akan diarahkan ke github.com untuk memilih repo yang telah dibuat pada langkah pertama tadi."/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>Deploy Hugo Ke Github | Ihza Rizky Blog</title></head>
+<body><header>
+	
+	<div id="avatar">
+		<a href="https://ihzarizkyk.github.io">
+		  <img src="https://i.ibb.co/Y8P0bvg/IHZA5-Flat-icon-blue.png" alt="Ihza Rizky Blog">
+		</a>
+	</div>
+	
+	<div id="titletext"><h2 id="title"><a href="https://ihzarizkyk.github.io">Ihza Rizky Blog</a></h2></div>
+	<div id="title-description"><p id="subtitle">Menulis Apa yang Saya Mau</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/ihzarizkyk"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="https://instagram.com/ihzarizkyk"><i title="Instagram" class="icons fab fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/mochammad-ihza-rizky-karim/"><i title="Linkedin" class="icons fab fa-linkedin"></i></a></li>
+					<li><a href="https://ini.space/ihzarizkyk"><i title="More Link" class="icons fas fa-link"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Beranda</a></li>
+				
+				<li><a href="/tentang/">Tentang</a></li>
+				
+				<li><a href="/portfolio/">Portfolio</a></li>
+				
+				<li><a href="/tags/">Tag</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main><div class="post">
+	
+	<div class="post-image">
+		<img src="/gambar/papan-ketik.jpg" >
+	</div>
+	
+	<div class="author">
+	
+	</div>
+	<div class="post-header">
+	
+		<div class="meta">
+			
+			<div class="date">
+				<span class="day">27</span>
+				<span class="rest">Sep 2020</span>
+			</div>
+			
+		</div>
+		
+		<div class="matter">
+			<h1 class="title">Deploy Hugo Ke Github</h1>
+		</div>
+	</div>
+	<div class="markdown">
+		<hr>
+<p><em><strong>Github</strong></em> memiliki layanan hosting untuk website statis yang bernama <strong>github pages</strong>. Nah, nantinya file hasil render dari folder public hugo akan di repository github pages.</p>
+<p>Begini Caranya :</p>
+<p><strong>1.</strong> Buat Repository dan beri namawebsite.github.io yang nantinya akan disambungkan dengan github pages.
+pastikan Visibilitynya Public, karena jika private anda harus upgrade langganan pro.</p>
+<p><strong>2.</strong> Buka pages.github.com dan klik Github repository. setelah itu anda akan diarahkan ke github.com untuk memilih repo yang telah dibuat pada langkah pertama tadi.</p>
+<p><strong>3.</strong> Buka Terminal atau CMD dan masuk ke direktori tempat project anda disimpan dan juga folder public.</p>
+<pre><code>cd project
+cd public
+</code></pre><p><strong>4.</strong> Inisialisasi git :</p>
+<pre><code>git init
+</code></pre><p><strong>5.</strong> Tambah Repository Remote dari repo yang telah dibuat diawal (HTTPS) :</p>
+<pre><code>git remote add origin https://github.com/&lt;username&gt;/&lt;namawebsite.github.io&gt;.git
+</code></pre><p><strong>6.</strong> Upload</p>
+<pre><code>git add .
+git commit -m &quot;upload pertama&quot;
+git push -u origin master
+</code></pre><p>Dengan begitu semua file dan folder didalam folder public akan terupload ke repo yang telah anda buat.</p>
+
+	</div>
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Tags</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/hugo/"> hugo </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/teknologi/"> teknologi </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/tutorial/"> tutorial </a>
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+		
+	</div></div>
+
+  </main>
+<footer>
+	 Copyright 2020 | Ihza Rizky Blog | Theme <a href="https://github.com/dataCobra/hugo-vitae">Vitae</a> 
+	
+	
+	
+</footer>
+
+
+</body>
+</html>
