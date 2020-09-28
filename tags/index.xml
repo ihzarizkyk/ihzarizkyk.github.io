@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Ihza Rizky Blog</title>
-		<link>https://ihzarizkyk.github.io/tags/</link>
-		<description>Recent content in Tags on ihzarizkyk.github.io</description>
+		<link>http://ihzarizkyk.space/tags/</link>
+		<description>Recent content in Tags on ihzarizkyk.space</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
-		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae</copyright>
+		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
 		<lastBuildDate>Sun, 27 Sep 2020 09:18:54 +0700</lastBuildDate>
 		
-		<atom:link href="https://ihzarizkyk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://ihzarizkyk.space/tags/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Hugo</title>
-			<link>https://ihzarizkyk.github.io/tags/hugo/</link>
+			<link>http://ihzarizkyk.space/tags/hugo/</link>
 			<pubDate>Sun, 27 Sep 2020 09:18:54 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/hugo/</guid>
+			<guid>http://ihzarizkyk.space/tags/hugo/</guid>
 			<description>
 				
 				
@@ -25,10 +25,10 @@
 		</item>
 		<item>
 			<title>Teknologi</title>
-			<link>https://ihzarizkyk.github.io/tags/teknologi/</link>
+			<link>http://ihzarizkyk.space/tags/teknologi/</link>
 			<pubDate>Sun, 27 Sep 2020 09:18:54 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/teknologi/</guid>
+			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
 			<description>
 				
 				
@@ -37,10 +37,10 @@
 		</item>
 		<item>
 			<title>Tutorial</title>
-			<link>https://ihzarizkyk.github.io/tags/tutorial/</link>
+			<link>http://ihzarizkyk.space/tags/tutorial/</link>
 			<pubDate>Sun, 27 Sep 2020 09:18:54 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/tutorial/</guid>
+			<guid>http://ihzarizkyk.space/tags/tutorial/</guid>
 			<description>
 				
 				
@@ -49,10 +49,10 @@
 		</item>
 		<item>
 			<title>Inspirasi</title>
-			<link>https://ihzarizkyk.github.io/tags/inspirasi/</link>
+			<link>http://ihzarizkyk.space/tags/inspirasi/</link>
 			<pubDate>Sun, 27 Sep 2020 03:39:59 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/inspirasi/</guid>
+			<guid>http://ihzarizkyk.space/tags/inspirasi/</guid>
 			<description>
 				
 				
@@ -61,10 +61,10 @@
 		</item>
 		<item>
 			<title>Kehidupan &amp; Sosial</title>
-			<link>https://ihzarizkyk.github.io/tags/kehidupan-sosial/</link>
+			<link>http://ihzarizkyk.space/tags/kehidupan-sosial/</link>
 			<pubDate>Sun, 27 Sep 2020 03:39:59 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/kehidupan-sosial/</guid>
+			<guid>http://ihzarizkyk.space/tags/kehidupan-sosial/</guid>
 			<description>
 				
 				
@@ -73,10 +73,10 @@
 		</item>
 		<item>
 			<title>Bisnis</title>
-			<link>https://ihzarizkyk.github.io/tags/bisnis/</link>
+			<link>http://ihzarizkyk.space/tags/bisnis/</link>
 			<pubDate>Sat, 26 Sep 2020 06:58:31 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/bisnis/</guid>
+			<guid>http://ihzarizkyk.space/tags/bisnis/</guid>
 			<description>
 				
 				
@@ -85,10 +85,10 @@
 		</item>
 		<item>
 			<title>Startup Digital</title>
-			<link>https://ihzarizkyk.github.io/tags/startup-digital/</link>
+			<link>http://ihzarizkyk.space/tags/startup-digital/</link>
 			<pubDate>Sat, 26 Sep 2020 06:58:31 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/tags/startup-digital/</guid>
+			<guid>http://ihzarizkyk.space/tags/startup-digital/</guid>
 			<description>
 				
 				
