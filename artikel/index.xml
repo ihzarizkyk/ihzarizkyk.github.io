@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Artikels on Ihza Rizky Blog</title>
-		<link>https://ihzarizkyk.github.io/artikel/</link>
-		<description>Recent content in Artikels on ihzarizkyk.github.io</description>
+		<link>http://ihzarizkyk.space/artikel/</link>
+		<description>Recent content in Artikels on ihzarizkyk.space</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
 		<lastBuildDate>Sun, 27 Sep 2020 09:18:54 +0700</lastBuildDate>
 		
-		<atom:link href="https://ihzarizkyk.github.io/artikel/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://ihzarizkyk.space/artikel/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Deploy Hugo Ke Github</title>
-			<link>https://ihzarizkyk.github.io/artikel/deploy-hugo-ke-github/</link>
+			<link>http://ihzarizkyk.space/artikel/deploy-hugo-ke-github/</link>
 			<pubDate>Sun, 27 Sep 2020 09:18:54 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/deploy-hugo-ke-github/</guid>
+			<guid>http://ihzarizkyk.space/artikel/deploy-hugo-ke-github/</guid>
 			<description>
 				
 				 Github memiliki layanan hosting untuk website statis yang bernama github pages. Nah, nantinya file hasil render dari fo...
@@ -25,10 +25,10 @@
 		</item>
 		<item>
 			<title>Karya Pertama</title>
-			<link>https://ihzarizkyk.github.io/artikel/karya-pertama/</link>
+			<link>http://ihzarizkyk.space/artikel/karya-pertama/</link>
 			<pubDate>Sun, 27 Sep 2020 03:39:59 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/karya-pertama/</guid>
+			<guid>http://ihzarizkyk.space/artikel/karya-pertama/</guid>
 			<description>
 				
 				 Karya Pertama adalah hal yang menyenangkan ketika udah berlatih sekian kalinya, akhirnya bisa membuat karya pertama. Ja...
@@ -37,10 +37,10 @@
 		</item>
 		<item>
 			<title>Bingung dalam Menentukan Passion</title>
-			<link>https://ihzarizkyk.github.io/artikel/bingung-passion/</link>
+			<link>http://ihzarizkyk.space/artikel/bingung-passion/</link>
 			<pubDate>Sun, 27 Sep 2020 03:15:26 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/bingung-passion/</guid>
+			<guid>http://ihzarizkyk.space/artikel/bingung-passion/</guid>
 			<description>
 				
 				 Bingung Passion adalah 2 kata yang banyak dialami Anak Muda Zaman Sekarang yang tidak bisa mengenali dirinya sendiri un...
@@ -49,10 +49,10 @@
 		</item>
 		<item>
 			<title>Tidak Semua Rencana harus diceritakan</title>
-			<link>https://ihzarizkyk.github.io/artikel/tidak-semua-rencana-cerita/</link>
+			<link>http://ihzarizkyk.space/artikel/tidak-semua-rencana-cerita/</link>
 			<pubDate>Sat, 26 Sep 2020 14:27:30 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/tidak-semua-rencana-cerita/</guid>
+			<guid>http://ihzarizkyk.space/artikel/tidak-semua-rencana-cerita/</guid>
 			<description>
 				
 				Terkadang dalam kehidupan ini orang - orang berlomba-lomba menceritakan semua rencananya kepada orang banyak agar diperh...
@@ -61,10 +61,10 @@
 		</item>
 		<item>
 			<title>Bias dalam berpikir</title>
-			<link>https://ihzarizkyk.github.io/artikel/bias/</link>
+			<link>http://ihzarizkyk.space/artikel/bias/</link>
 			<pubDate>Sat, 26 Sep 2020 13:54:30 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/bias/</guid>
+			<guid>http://ihzarizkyk.space/artikel/bias/</guid>
 			<description>
 				
 				 Bias adalah kesalahan dalam berpikir, sehingga berakibat kesalahpahaman dalam menyimpulkan sesuatu hal. Orang akan berp...
@@ -73,10 +73,10 @@
 		</item>
 		<item>
 			<title>Membuat Folder Public Hugo</title>
-			<link>https://ihzarizkyk.github.io/artikel/membuat-folder-public-hugo/</link>
+			<link>http://ihzarizkyk.space/artikel/membuat-folder-public-hugo/</link>
 			<pubDate>Sat, 26 Sep 2020 11:53:54 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/membuat-folder-public-hugo/</guid>
+			<guid>http://ihzarizkyk.space/artikel/membuat-folder-public-hugo/</guid>
 			<description>
 				
 				 Folder Public merupakan folder hasil render dari file-file markdown Hugo yang nantinya akan digunakan untuk deploy ke h...
@@ -85,10 +85,10 @@
 		</item>
 		<item>
 			<title>9 Pilar Business Model Canvas</title>
-			<link>https://ihzarizkyk.github.io/artikel/9-pilar-bmc/</link>
+			<link>http://ihzarizkyk.space/artikel/9-pilar-bmc/</link>
 			<pubDate>Sat, 26 Sep 2020 06:58:31 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/9-pilar-bmc/</guid>
+			<guid>http://ihzarizkyk.space/artikel/9-pilar-bmc/</guid>
 			<description>
 				
 				 Dalam Sebuah Bisnis, Pastinya ada orang yang bertanggung jawab untuk menjalankan Kegiatan Perusahaan Tersebut agar teru...
@@ -97,10 +97,10 @@
 		</item>
 		<item>
 			<title>Kamus Startup Digital</title>
-			<link>https://ihzarizkyk.github.io/artikel/kamus-startup/</link>
+			<link>http://ihzarizkyk.space/artikel/kamus-startup/</link>
 			<pubDate>Thu, 24 Sep 2020 06:48:07 +0700</pubDate>
 			
-			<guid>https://ihzarizkyk.github.io/artikel/kamus-startup/</guid>
+			<guid>http://ihzarizkyk.space/artikel/kamus-startup/</guid>
 			<description>
 				
 				 Startup Digital adalah Perusahaan Rintisan yang berumur 3 - 5 tahun yang memanfaatkan kecanggihan Teknologi untuk membe...
