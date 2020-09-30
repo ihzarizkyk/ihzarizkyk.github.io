@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Sun, 27 Sep 2020 09:18:54 +0700</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2020 05:15:24 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/teknologi/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Cara Kontribusi Open Source di Github</title>
+			<link>http://ihzarizkyk.space/artikel/kontribusi-open-source-github/</link>
+			<pubDate>Thu, 01 Oct 2020 05:15:24 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/kontribusi-open-source-github/</guid>
+			<description>
+				
+				 Github merupakan hal yang tidak asing bagi para Developer, Programmer dan Pegiat IT dari seluruh dunia. Github digunaka...
+				
+			</description>
+		</item>
 		<item>
 			<title>Deploy Hugo Ke Github</title>
 			<link>http://ihzarizkyk.space/artikel/deploy-hugo-ke-github/</link>
