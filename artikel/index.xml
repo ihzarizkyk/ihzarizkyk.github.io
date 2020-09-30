@@ -7,10 +7,34 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Sun, 27 Sep 2020 09:18:54 +0700</lastBuildDate>
+		<lastBuildDate>Wed, 30 Sep 2020 18:28:45 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/artikel/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Aneh Viral</title>
+			<link>http://ihzarizkyk.space/artikel/aneh-viral/</link>
+			<pubDate>Wed, 30 Sep 2020 18:28:45 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/aneh-viral/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>Startup Skill</title>
+			<link>http://ihzarizkyk.space/artikel/startup-skill/</link>
+			<pubDate>Tue, 29 Sep 2020 17:04:51 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/startup-skill/</guid>
+			<description>
+				
+				 Modul 1 Modul 2 Modul 3 Modul 4 Modul 5 Modul 6 Modul 7 Modul 8 
+				
+			</description>
+		</item>
 		<item>
 			<title>Deploy Hugo Ke Github</title>
 			<link>http://ihzarizkyk.space/artikel/deploy-hugo-ke-github/</link>
