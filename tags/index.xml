@@ -7,10 +7,34 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Thu, 01 Oct 2020 05:56:14 +0700</lastBuildDate>
+		<lastBuildDate>Thu, 01 Oct 2020 06:50:54 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Startup Digital</title>
+			<link>http://ihzarizkyk.space/tags/startup-digital/</link>
+			<pubDate>Thu, 01 Oct 2020 06:50:54 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/tags/startup-digital/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>Teknologi</title>
+			<link>http://ihzarizkyk.space/tags/teknologi/</link>
+			<pubDate>Thu, 01 Oct 2020 06:50:54 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
 		<item>
 			<title>Kehidupan &amp; Sosial</title>
 			<link>http://ihzarizkyk.space/tags/kehidupan-sosial/</link>
@@ -29,18 +53,6 @@
 			<pubDate>Thu, 01 Oct 2020 05:15:24 +0700</pubDate>
 			
 			<guid>http://ihzarizkyk.space/tags/open-source/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>Teknologi</title>
-			<link>http://ihzarizkyk.space/tags/teknologi/</link>
-			<pubDate>Thu, 01 Oct 2020 05:15:24 +0700</pubDate>
-			
-			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
 			<description>
 				
 				
@@ -89,18 +101,6 @@
 			<pubDate>Sat, 26 Sep 2020 06:58:31 +0700</pubDate>
 			
 			<guid>http://ihzarizkyk.space/tags/bisnis/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>Startup Digital</title>
-			<link>http://ihzarizkyk.space/tags/startup-digital/</link>
-			<pubDate>Sat, 26 Sep 2020 06:58:31 +0700</pubDate>
-			
-			<guid>http://ihzarizkyk.space/tags/startup-digital/</guid>
 			<description>
 				
 				
