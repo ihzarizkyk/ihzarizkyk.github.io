@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Thu, 01 Oct 2020 06:50:54 +0700</lastBuildDate>
+		<lastBuildDate>Tue, 06 Oct 2020 16:37:23 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/artikel/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>AARRR Framework</title>
+			<link>http://ihzarizkyk.space/artikel/aarrr-framework/</link>
+			<pubDate>Tue, 06 Oct 2020 16:37:23 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/aarrr-framework/</guid>
+			<description>
+				
+				Dalam Dunia Startup ada banyak metode atau cara pengukuran untuk mencapai efektifitas, kemudahan dan sederhana dalam Per...
+				
+			</description>
+		</item>
 		<item>
 			<title>Apa Itu MVP?</title>
 			<link>http://ihzarizkyk.space/artikel/apa-itu-mvp/</link>
