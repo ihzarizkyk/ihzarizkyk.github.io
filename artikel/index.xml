@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 06 Oct 2020 16:37:23 +0700</lastBuildDate>
+		<lastBuildDate>Wed, 07 Oct 2020 18:55:42 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/artikel/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Java Sebagai Bahasa Pemrogaman Berbasis Objek</title>
+			<link>http://ihzarizkyk.space/artikel/java-sebagai-bahasa-pbo/</link>
+			<pubDate>Wed, 07 Oct 2020 18:55:42 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/java-sebagai-bahasa-pbo/</guid>
+			<description>
+				
+				Java adalah Bahasa Pemrograman Yang Cukup Tua dan Populer. Java merupakan Bahasa Pemrograman berbasis objek, berbeda den...
+				
+			</description>
+		</item>
 		<item>
 			<title>AARRR Framework</title>
 			<link>http://ihzarizkyk.space/artikel/aarrr-framework/</link>
