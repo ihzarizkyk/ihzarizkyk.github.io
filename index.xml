@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Thu, 08 Oct 2020 20:09:32 +0700</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2020 00:05:06 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Ternary Operator PHP dan Python</title>
+			<link>http://ihzarizkyk.space/artikel/ternary-operator-php-python/</link>
+			<pubDate>Tue, 13 Oct 2020 00:05:06 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/ternary-operator-php-python/</guid>
+			<description>
+				
+				 Dalam Pemrograman ada kalanya kita harus menulis kode yang ringkas dan efisien dalam penggunaannya. Nah, dalam pemrogra...
+				
+			</description>
+		</item>
 		<item>
 			<title>How to Improve Writing Skills</title>
 			<link>http://ihzarizkyk.space/artikel/how-to-improve-writing-skills/</link>

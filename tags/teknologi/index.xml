@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Wed, 07 Oct 2020 18:55:42 +0700</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2020 00:05:06 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/teknologi/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Ternary Operator PHP dan Python</title>
+			<link>http://ihzarizkyk.space/artikel/ternary-operator-php-python/</link>
+			<pubDate>Tue, 13 Oct 2020 00:05:06 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/ternary-operator-php-python/</guid>
+			<description>
+				
+				 Dalam Pemrograman ada kalanya kita harus menulis kode yang ringkas dan efisien dalam penggunaannya. Nah, dalam pemrogra...
+				
+			</description>
+		</item>
 		<item>
 			<title>Java Sebagai Bahasa Pemrogaman Berbasis Objek</title>
 			<link>http://ihzarizkyk.space/artikel/java-sebagai-bahasa-pbo/</link>

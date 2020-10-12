@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<meta name="generator" content="Hugo 0.75.1" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="title" content="Ternary Operator PHP dan Python">
+	<meta property="og:title" content="Ternary Operator PHP dan Python">
+	
+	<meta property="og:image" content="/gambar/code.jpg">
+	
+	<meta name="keywords" content="Teknologi"><meta name="description" content=""><meta property="og:title" content="Ternary Operator PHP dan Python" />
+<meta property="og:description" content="Dalam Pemrograman ada kalanya kita harus menulis kode yang ringkas dan efisien dalam penggunaannya. Nah, dalam pemrograman untuk menyingkat penulisan kondisi if&hellip;else&hellip; adalah dengan menggunakan Ternary Operator.
+Ternary Operator Adalah Operator yang berfungsi untuk menyingkat kode kondisi if&hellip;else&hellip; menjadi 3 bagian. Akan tetapi, setiap bahasa pemrograman memiliki aturan tersendiri untuk penulisan ternary operator, dibawah ini adalah aturan umum penulisan ternary operator dalam Bahasa Pemrograman PHP :
+&lt;?php $variable = condition ?" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ihzarizkyk.space/artikel/ternary-operator-php-python/" />
+<meta property="article:published_time" content="2020-10-13T00:05:06+07:00" />
+<meta property="article:modified_time" content="2020-10-13T00:05:06+07:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Ternary Operator PHP dan Python"/>
+<meta name="twitter:description" content="Dalam Pemrograman ada kalanya kita harus menulis kode yang ringkas dan efisien dalam penggunaannya. Nah, dalam pemrograman untuk menyingkat penulisan kondisi if&hellip;else&hellip; adalah dengan menggunakan Ternary Operator.
+Ternary Operator Adalah Operator yang berfungsi untuk menyingkat kode kondisi if&hellip;else&hellip; menjadi 3 bagian. Akan tetapi, setiap bahasa pemrograman memiliki aturan tersendiri untuk penulisan ternary operator, dibawah ini adalah aturan umum penulisan ternary operator dalam Bahasa Pemrograman PHP :
+&lt;?php $variable = condition ?"/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>Ternary Operator PHP dan Python | Ihza Rizky Blog</title></head>
+<body><header>
+	
+	<div id="avatar">
+		<a href="http://ihzarizkyk.space">
+		  <img src="https://i.ibb.co/Y8P0bvg/IHZA5-Flat-icon-blue.png" alt="Ihza Rizky Blog">
+		</a>
+	</div>
+	
+	<div id="titletext"><h2 id="title"><a href="http://ihzarizkyk.space">Ihza Rizky Blog</a></h2></div>
+	<div id="title-description"><p id="subtitle">Menulis Apa yang Saya Mau</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/ihzarizkyk"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="https://instagram.com/ihzarizkyk"><i title="Instagram" class="icons fab fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/mochammad-ihza-rizky-karim/"><i title="Linkedin" class="icons fab fa-linkedin"></i></a></li>
+					<li><a href="https://ini.space/ihzarizkyk"><i title="More Link" class="icons fas fa-link"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Beranda</a></li>
+				
+				<li><a href="/tentang/">Tentang</a></li>
+				
+				<li><a href="/portfolio/">Portfolio</a></li>
+				
+				<li><a href="/tags/">Tag</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main><div class="post">
+	
+	<div class="post-image">
+		<img src="/gambar/code.jpg" >
+	</div>
+	
+	<div class="author">
+	
+	</div>
+	<div class="post-header">
+	
+		<div class="meta">
+			
+			<div class="date">
+				<span class="day">13</span>
+				<span class="rest">Oct 2020</span>
+			</div>
+			
+		</div>
+		
+		<div class="matter">
+			<h1 class="title">Ternary Operator PHP dan Python</h1>
+		</div>
+	</div>
+	<div class="markdown">
+		<hr>
+<p>Dalam Pemrograman ada kalanya kita harus menulis kode yang ringkas dan efisien dalam penggunaannya. Nah, dalam pemrograman untuk menyingkat penulisan kondisi if&hellip;else&hellip; adalah dengan menggunakan Ternary Operator.</p>
+<p><strong>Ternary Operator</strong> Adalah Operator yang berfungsi untuk menyingkat kode kondisi if&hellip;else&hellip; menjadi 3 bagian. Akan tetapi, setiap bahasa pemrograman memiliki aturan tersendiri untuk penulisan ternary operator, dibawah ini adalah aturan umum penulisan ternary operator dalam Bahasa Pemrograman PHP :</p>
+<pre><code>&lt;?php
+
+$variable = condition ? statement true : statement false;
+</code></pre><p><strong>Implementasi :</strong></p>
+<pre><code>&lt;?php
+
+$nilai = (10&gt;9) ? &quot;true&quot; : &quot;false&quot;;
+echo $nilai;
+
+// Output : true
+</code></pre><p><strong>Tanpa Ternary Operator :</strong></p>
+<pre><code>&lt;?php
+if(10&gt;9)
+{
+	echo &quot;true&quot;;
+}else{
+	echo &quot;false&quot;;
+}
+</code></pre><hr>
+<p>Untuk aturan penulisan Ternary Operator dalam Bahasa Pemrograman Python sebagai berikut :</p>
+<pre><code>variable = statement true if (condition) else statement false
+
+print(variable)
+</code></pre><p><strong>Implementasi :</strong></p>
+<pre><code>nomor = &quot;benar&quot; if (10&gt;9) else &quot;salah&quot;
+print(nomor)
+
+# Output : benar
+</code></pre><p><strong>Tanpa Ternary Operator :</strong></p>
+<pre><code>if(10&gt;9):
+	print(&quot;benar&quot;)
+else:
+	print(&quot;salah&quot;)
+
+# Output : benar
+</code></pre><p>Nah, kurang lebih begitu contoh dari Penggunaan Ternary Operator dalam Bahasa Pemrograman PHP dan Python. <strong>Semoga Bermanfaat</strong></p>
+
+	</div>
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Tags</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/teknologi/"> teknologi </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+		
+	</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+	(function() {
+	    
+	    
+	    if (window.location.hostname == "localhost")
+	        return;
+	    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	    var disqus_shortname = 'ihza-rizky-blog';
+	    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to load the comments.</noscript>
+
+
+</div>
+
+  </main>
+<footer>
+	 Copyright © 2020 Ihza Rizky Blog | Tema <a href="https://github.com/dataCobra/hugo-vitae">Vitae</a> dari <a href="https://themes.gohugo.io/">Hugo</a> 
+	
+	
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-144525349-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	
+</footer>
+
+
+</body>
+</html>
