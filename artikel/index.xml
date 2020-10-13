@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 13 Oct 2020 00:05:06 +0700</lastBuildDate>
+		<lastBuildDate>Tue, 13 Oct 2020 16:24:04 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/artikel/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Cara Buat Profile Readme Github</title>
+			<link>http://ihzarizkyk.space/artikel/buat-profile-readme-github/</link>
+			<pubDate>Tue, 13 Oct 2020 16:24:04 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/buat-profile-readme-github/</guid>
+			<description>
+				
+				 Github merupakan platform website yang terkenal bagi para Developer, Programmer, Pegiat IT di seluruh dunia. Baru-baru ...
+				
+			</description>
+		</item>
 		<item>
 			<title>Ternary Operator PHP dan Python</title>
 			<link>http://ihzarizkyk.space/artikel/ternary-operator-php-python/</link>
