@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+	
+	<meta name="generator" content="Hugo 0.75.1" />
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="title" content="Mengenal Rest Api">
+	<meta property="og:title" content="Mengenal Rest Api">
+	
+	<meta property="og:image" content="/gambar/code.jpg">
+	
+	<meta name="keywords" content="Teknologi"><meta name="description" content=""><meta property="og:title" content="Mengenal Rest Api" />
+<meta property="og:description" content="REST API REST API atau singkatan dari representational state transfer application programming interface adalah arsitektur yang berada didalam api. dengan menggunakan REST, anda bisa mengakses data dari REST Server menggunakan Metode HTTP POST, PUT, DELETE, OPTIONS untuk bisa mengambil data / resource tertentu dari REST Server yang berbeda.
+REST dan HTTP tidaklah Sama  Padahal, karena REST juga bermaksud untuk membuat web (internet) lebih efisien dan standar, dia menganjurkan untuk menggunakan prinsip REST dengan lebih ketat." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ihzarizkyk.space/artikel/mengenal-rest-api/" />
+<meta property="article:published_time" content="2020-11-03T18:55:09+07:00" />
+<meta property="article:modified_time" content="2020-11-03T18:55:09+07:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Mengenal Rest Api"/>
+<meta name="twitter:description" content="REST API REST API atau singkatan dari representational state transfer application programming interface adalah arsitektur yang berada didalam api. dengan menggunakan REST, anda bisa mengakses data dari REST Server menggunakan Metode HTTP POST, PUT, DELETE, OPTIONS untuk bisa mengambil data / resource tertentu dari REST Server yang berbeda.
+REST dan HTTP tidaklah Sama  Padahal, karena REST juga bermaksud untuk membuat web (internet) lebih efisien dan standar, dia menganjurkan untuk menggunakan prinsip REST dengan lebih ketat."/>
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
+	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
+	<title>Mengenal Rest Api | Ihza Rizky Blog</title></head>
+<body><header>
+	
+	<div id="avatar">
+		<a href="http://ihzarizkyk.space">
+		  <img src="https://i.ibb.co/Y8P0bvg/IHZA5-Flat-icon-blue.png" alt="Ihza Rizky Blog">
+		</a>
+	</div>
+	
+	<div id="titletext"><h2 id="title"><a href="http://ihzarizkyk.space">Ihza Rizky Blog</a></h2></div>
+	<div id="title-description"><p id="subtitle">Menulis Apa yang Saya Mau</p><div id="social">
+			<nav>
+				<ul>
+					<li><a href="https://github.com/ihzarizkyk"><i title="Github" class="icons fab fa-github"></i></a></li>
+					<li><a href="https://instagram.com/ihzarizkyk"><i title="Instagram" class="icons fab fa-instagram"></i></a></li>
+					<li><a href="https://www.linkedin.com/in/mochammad-ihza-rizky-karim/"><i title="Linkedin" class="icons fab fa-linkedin"></i></a></li>
+					<li><a href="https://ini.space/ihzarizkyk"><i title="More Link" class="icons fas fa-link"></i></a></li></ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div id="mainmenu">
+		<nav>
+			<ul>
+				
+				<li><a href="/">Beranda</a></li>
+				
+				<li><a href="/tentang/">Tentang</a></li>
+				
+				<li><a href="/portfolio/">Portfolio</a></li>
+				
+				<li><a href="/tags/">Tag</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	
+</header>
+<main><div class="post">
+	
+	<div class="post-image">
+		<img src="/gambar/code.jpg" >
+	</div>
+	
+	<div class="author">
+	
+	</div>
+	<div class="post-header">
+	
+		<div class="meta">
+			
+			<div class="date">
+				<span class="day">03</span>
+				<span class="rest">Nov 2020</span>
+			</div>
+			
+		</div>
+		
+		<div class="matter">
+			<h1 class="title">Mengenal Rest Api</h1>
+		</div>
+	</div>
+	<div class="markdown">
+		<h3 id="rest-api">REST API</h3>
+<p>REST API atau singkatan dari representational state transfer application programming interface adalah arsitektur yang berada didalam api. dengan menggunakan REST, anda bisa mengakses data dari REST Server menggunakan Metode HTTP POST, PUT, DELETE, OPTIONS untuk bisa mengambil data / resource tertentu dari REST Server yang berbeda.</p>
+<h3 id="rest-dan-http-tidaklah-sama">REST dan HTTP tidaklah Sama</h3>
+<blockquote>
+<p>Padahal, karena REST juga bermaksud untuk membuat web (internet) lebih efisien dan standar, dia menganjurkan untuk menggunakan prinsip REST dengan lebih ketat. Dan dari situlah orang mencoba untuk mulai membandingkan REST dengan web (HTTP). Roy fielding, dalam disertasinya, tidak menyebutkan petunjuk implementasi apapun - termasuk preferensi protokol dan HTTP. Hingga saat ini, Anda menghormati 6 prinsip panduan REST, Anda dapat memanggil antarmuka Anda RESTful.</p>
+</blockquote>
+<blockquote>
+<p>Sederhananya, dalam gaya arsitektur REST, data dan fungsionalitas dianggap sebagai sumber daya dan diakses menggunakan Uniform Resource Identifier (URI). Sumber daya ditindaklanjuti dengan menggunakan serangkaian operasi sederhana dan terdefinisi dengan baik. Klien dan server bertukar representasi sumber daya dengan menggunakan antarmuka dan protokol standar - biasanya HTTP.</p>
+</blockquote>
+<p><strong>Contoh REST API Sederhana Menggunakan PHP :</strong></p>
+<pre><code>&lt;?php
+
+$objek = [
+'Nama'=&gt; 'Mochammad Ihza Rizky Karim',
+'Tautan'=&gt; 'ihzarizkyk.space',
+'data'=&gt; [
+'Kunci1'=&gt; 'Nilai1',
+'Kunci2'=&gt; 'Nilai2',
+'Kunci3'=&gt; 'Nilai3'
+]
+];
+header(&quot;content-type: application/json&quot;);
+echo json_encode($objek);
+
+?&gt;
+</code></pre><p><strong>Hasilnya :</strong></p>
+<pre><code>{&quot;Nama&quot;:&quot;Mochammad Ihza Rizky Karim&quot;,&quot;Tautan&quot;:&quot;ihzarizkyk.space&quot;,&quot;data&quot;:{&quot;Kunci1&quot;:&quot;Nilai1&quot;,&quot;Kunci2&quot;:&quot;Nilai2&quot;,&quot;Kunci3&quot;:&quot;Nilai3&quot;}}
+</code></pre><p><strong>Sumber Referensi :</strong>
+(1) <a href="https://restfulapi.net/">https://restfulapi.net/</a>
+(2)	<a href="https://medium.com/jagoanhosting/perbedaan-antara-api-rest-api-dan-restful-api-6a66d655a6c2">medium.com</a></p>
+
+	</div>
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	<div class="tags">
+		<div class="taxosfloating_left">
+			<p>Tags</p>
+		</div>
+		<div class="termsfloating_right">
+			<p>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/teknologi/"> teknologi </a>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			</p>
+		</div>
+		<div class="clearit"></div>
+		
+		
+		
+		
+		
+	</div>
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+	(function() {
+	    
+	    
+	    if (window.location.hostname == "localhost")
+	        return;
+	    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+	    var disqus_shortname = 'ihza-rizky-blog';
+	    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+	    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+	})();
+</script>
+<noscript>Please enable JavaScript to load the comments.</noscript>
+
+
+</div>
+
+  </main>
+<footer>
+	 Copyright © 2020 Ihza Rizky Blog | Tema <a href="https://github.com/dataCobra/hugo-vitae">Vitae</a> dari <a href="https://themes.gohugo.io/">Hugo</a> 
+	
+	
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-144525349-2', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+	
+</footer>
+
+
+</body>
+</html>

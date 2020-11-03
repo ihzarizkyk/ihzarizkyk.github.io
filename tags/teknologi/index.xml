@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 13 Oct 2020 16:24:04 +0700</lastBuildDate>
+		<lastBuildDate>Tue, 03 Nov 2020 18:55:09 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/teknologi/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Mengenal Rest Api</title>
+			<link>http://ihzarizkyk.space/artikel/mengenal-rest-api/</link>
+			<pubDate>Tue, 03 Nov 2020 18:55:09 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/mengenal-rest-api/</guid>
+			<description>
+				
+				REST API REST API atau singkatan dari representational state transfer application programming interface adalah arsitektu...
+				
+			</description>
+		</item>
 		<item>
 			<title>Cara Buat Profile Readme Github</title>
 			<link>http://ihzarizkyk.space/artikel/buat-profile-readme-github/</link>
