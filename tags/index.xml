@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Wed, 11 Nov 2020 19:23:50 +0700</lastBuildDate>
+		<lastBuildDate>Sun, 15 Nov 2020 15:05:16 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Kehidupan &amp; Sosial</title>
+			<link>http://ihzarizkyk.space/tags/kehidupan-sosial/</link>
+			<pubDate>Sun, 15 Nov 2020 15:05:16 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/tags/kehidupan-sosial/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
 		<item>
 			<title>Startup Digital</title>
 			<link>http://ihzarizkyk.space/tags/startup-digital/</link>
@@ -65,18 +77,6 @@
 			<pubDate>Tue, 06 Oct 2020 16:37:23 +0700</pubDate>
 			
 			<guid>http://ihzarizkyk.space/tags/bisnis/</guid>
-			<description>
-				
-				
-				
-			</description>
-		</item>
-		<item>
-			<title>Kehidupan &amp; Sosial</title>
-			<link>http://ihzarizkyk.space/tags/kehidupan-sosial/</link>
-			<pubDate>Thu, 01 Oct 2020 05:56:14 +0700</pubDate>
-			
-			<guid>http://ihzarizkyk.space/tags/kehidupan-sosial/</guid>
 			<description>
 				
 				
