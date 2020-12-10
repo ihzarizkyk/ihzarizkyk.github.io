@@ -7,16 +7,16 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Sun, 15 Nov 2020 15:05:16 +0700</lastBuildDate>
+		<lastBuildDate>Tue, 08 Dec 2020 08:15:49 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Kehidupan &amp; Sosial</title>
-			<link>http://ihzarizkyk.space/tags/kehidupan-sosial/</link>
-			<pubDate>Sun, 15 Nov 2020 15:05:16 +0700</pubDate>
+			<title>Manajemen Proyek</title>
+			<link>http://ihzarizkyk.space/tags/manajemen-proyek/</link>
+			<pubDate>Tue, 08 Dec 2020 08:15:49 +0700</pubDate>
 			
-			<guid>http://ihzarizkyk.space/tags/kehidupan-sosial/</guid>
+			<guid>http://ihzarizkyk.space/tags/manajemen-proyek/</guid>
 			<description>
 				
 				
@@ -26,7 +26,7 @@
 		<item>
 			<title>Startup Digital</title>
 			<link>http://ihzarizkyk.space/tags/startup-digital/</link>
-			<pubDate>Wed, 11 Nov 2020 19:23:50 +0700</pubDate>
+			<pubDate>Tue, 08 Dec 2020 08:15:49 +0700</pubDate>
 			
 			<guid>http://ihzarizkyk.space/tags/startup-digital/</guid>
 			<description>
@@ -38,9 +38,21 @@
 		<item>
 			<title>Teknologi</title>
 			<link>http://ihzarizkyk.space/tags/teknologi/</link>
-			<pubDate>Wed, 11 Nov 2020 19:23:50 +0700</pubDate>
+			<pubDate>Tue, 08 Dec 2020 08:15:49 +0700</pubDate>
 			
 			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>Kehidupan &amp; Sosial</title>
+			<link>http://ihzarizkyk.space/tags/kehidupan-sosial/</link>
+			<pubDate>Sun, 15 Nov 2020 15:05:16 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/tags/kehidupan-sosial/</guid>
 			<description>
 				
 				
