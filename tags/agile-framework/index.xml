@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Agile Framework on Ihza Rizky Blog</title>
+		<link>http://ihzarizkyk.space/tags/agile-framework/</link>
+		<description>Recent content in Agile Framework on ihzarizkyk.space</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
+		<lastBuildDate>Fri, 11 Dec 2020 13:48:40 +0700</lastBuildDate>
+		
+		<atom:link href="http://ihzarizkyk.space/tags/agile-framework/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Agile Extreme Programming (XP)</title>
+			<link>http://ihzarizkyk.space/artikel/extreme-programming/</link>
+			<pubDate>Fri, 11 Dec 2020 13:48:40 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/extreme-programming/</guid>
+			<description>
+				
+				Extreme Progamming atau Biasa disingkat XP adalah Framework turunan dari Metodologi Agile. Metode ini dikenalkan oleh Ke...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>

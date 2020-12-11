@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Thu, 10 Dec 2020 22:39:44 +0700</lastBuildDate>
+		<lastBuildDate>Fri, 11 Dec 2020 13:48:40 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Agile Extreme Programming (XP)</title>
+			<link>http://ihzarizkyk.space/artikel/extreme-programming/</link>
+			<pubDate>Fri, 11 Dec 2020 13:48:40 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/extreme-programming/</guid>
+			<description>
+				
+				Extreme Progamming atau Biasa disingkat XP adalah Framework turunan dari Metodologi Agile. Metode ini dikenalkan oleh Ke...
+				
+			</description>
+		</item>
 		<item>
 			<title>Metodologi Waterfall</title>
 			<link>http://ihzarizkyk.space/artikel/metodologi-waterfall/</link>
