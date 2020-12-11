@@ -7,10 +7,22 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 08 Dec 2020 08:15:49 +0700</lastBuildDate>
+		<lastBuildDate>Thu, 10 Dec 2020 22:39:44 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Metodologi Waterfall</title>
+			<link>http://ihzarizkyk.space/artikel/metodologi-waterfall/</link>
+			<pubDate>Thu, 10 Dec 2020 22:39:44 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/metodologi-waterfall/</guid>
+			<description>
+				
+				Metodologi Waterfall adalah pendekatan manajemen proyek yang alur prosesnya dikerjakan satu-persatu atau Berurutan (Seku...
+				
+			</description>
+		</item>
 		<item>
 			<title>Manajemen Proyek</title>
 			<link>http://ihzarizkyk.space/artikel/manajemen-proyek/</link>
