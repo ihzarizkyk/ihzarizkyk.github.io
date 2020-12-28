@@ -7,10 +7,23 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 22 Dec 2020 15:44:16 +0700</lastBuildDate>
+		<lastBuildDate>Mon, 28 Dec 2020 16:53:43 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Mengenal Boilerplate Code</title>
+			<link>http://ihzarizkyk.space/artikel/boilerplate/</link>
+			<pubDate>Mon, 28 Dec 2020 16:53:43 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/boilerplate/</guid>
+			<description>
+				
+				Boilerplate mengenal apa itu Boilerplate Code / atau hanya Boilerplate,
+Boilerplate Code adalah sebuah kode yang digunak...
+				
+			</description>
+		</item>
 		<item>
 			<title>Introduction to Product Development</title>
 			<link>http://ihzarizkyk.space/artikel/product-development/</link>
