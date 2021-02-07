@@ -1,3 +1,3 @@
 git add .
-git commit -m "Update Artikel"
+git commit -m "Hapus Link"
 git push -u origin master
