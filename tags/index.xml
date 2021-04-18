@@ -7,16 +7,16 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 02 Feb 2021 14:15:58 +0700</lastBuildDate>
+		<lastBuildDate>Sun, 18 Apr 2021 20:33:09 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Leadership</title>
-			<link>http://ihzarizkyk.space/tags/leadership/</link>
-			<pubDate>Tue, 02 Feb 2021 14:15:58 +0700</pubDate>
+			<title>Pemrograman</title>
+			<link>http://ihzarizkyk.space/tags/pemrograman/</link>
+			<pubDate>Sun, 18 Apr 2021 20:33:09 +0700</pubDate>
 			
-			<guid>http://ihzarizkyk.space/tags/leadership/</guid>
+			<guid>http://ihzarizkyk.space/tags/pemrograman/</guid>
 			<description>
 				
 				
@@ -26,9 +26,21 @@
 		<item>
 			<title>Teknologi</title>
 			<link>http://ihzarizkyk.space/tags/teknologi/</link>
-			<pubDate>Mon, 28 Dec 2020 16:53:43 +0700</pubDate>
+			<pubDate>Sun, 18 Apr 2021 20:33:09 +0700</pubDate>
 			
 			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>Leadership</title>
+			<link>http://ihzarizkyk.space/tags/leadership/</link>
+			<pubDate>Tue, 02 Feb 2021 14:15:58 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/tags/leadership/</guid>
 			<description>
 				
 				

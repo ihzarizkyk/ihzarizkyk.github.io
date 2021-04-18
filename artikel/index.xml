@@ -7,10 +7,23 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Tue, 02 Feb 2021 14:15:58 +0700</lastBuildDate>
+		<lastBuildDate>Sun, 18 Apr 2021 20:33:09 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/artikel/index.xml" rel="self" type="application/rss+xml" />
 		
+		<item>
+			<title>Recap Programming Errors</title>
+			<link>http://ihzarizkyk.space/artikel/rpe/</link>
+			<pubDate>Sun, 18 Apr 2021 20:33:09 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/artikel/rpe/</guid>
+			<description>
+				
+				Rekap saat Mengalami Error dalam Pemrograman PHP NATIVE Error Message : Lorem ipsum sit dolor amet
+Troubleshot : Lorem i...
+				
+			</description>
+		</item>
 		<item>
 			<title>Self Concept</title>
 			<link>http://ihzarizkyk.space/artikel/self-concept/</link>
