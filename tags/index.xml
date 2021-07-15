@@ -7,16 +7,16 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>Copyright © 2020 Ihza Rizky Blog | Tema Vitae dari Hugo</copyright>
-		<lastBuildDate>Sun, 18 Apr 2021 20:33:09 +0700</lastBuildDate>
+		<lastBuildDate>Thu, 15 Jul 2021 08:14:25 +0700</lastBuildDate>
 		
 		<atom:link href="http://ihzarizkyk.space/tags/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
-			<title>Pemrograman</title>
-			<link>http://ihzarizkyk.space/tags/pemrograman/</link>
-			<pubDate>Sun, 18 Apr 2021 20:33:09 +0700</pubDate>
+			<title>Teknologi</title>
+			<link>http://ihzarizkyk.space/tags/teknologi/</link>
+			<pubDate>Thu, 15 Jul 2021 08:14:25 +0700</pubDate>
 			
-			<guid>http://ihzarizkyk.space/tags/pemrograman/</guid>
+			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
 			<description>
 				
 				
@@ -24,11 +24,23 @@
 			</description>
 		</item>
 		<item>
-			<title>Teknologi</title>
-			<link>http://ihzarizkyk.space/tags/teknologi/</link>
+			<title>Tips</title>
+			<link>http://ihzarizkyk.space/tags/tips/</link>
+			<pubDate>Thu, 15 Jul 2021 08:14:25 +0700</pubDate>
+			
+			<guid>http://ihzarizkyk.space/tags/tips/</guid>
+			<description>
+				
+				
+				
+			</description>
+		</item>
+		<item>
+			<title>Pemrograman</title>
+			<link>http://ihzarizkyk.space/tags/pemrograman/</link>
 			<pubDate>Sun, 18 Apr 2021 20:33:09 +0700</pubDate>
 			
-			<guid>http://ihzarizkyk.space/tags/teknologi/</guid>
+			<guid>http://ihzarizkyk.space/tags/pemrograman/</guid>
 			<description>
 				
 				

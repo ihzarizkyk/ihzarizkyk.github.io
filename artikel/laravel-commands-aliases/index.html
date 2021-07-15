@@ -5,29 +5,29 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="title" content="Apa Itu MVP?">
-	<meta property="og:title" content="Apa Itu MVP?">
+	<meta name="title" content="Create Laravel Command Aliases on Linux">
+	<meta property="og:title" content="Create Laravel Command Aliases on Linux">
 	
 	<meta property="og:image" content="/gambar/papan-ketik.jpg">
 	
-	<meta name="keywords" content="Teknologi,Startup Digital"><meta name="description" content=""><meta property="og:title" content="Apa Itu MVP?" />
-<meta property="og:description" content="MVP (Minimum Viable Product) Adalah Sebuah Teknik atau Metode yang digunakan untuk membuat Product dengan Effort dan biaya seminimal mungkin untuk menguji apakah produk yang dibuat itu berguna untuk kebutuhan user atau konsumen nantinya.
-Tujuan dari MVP adalah untuk memvalidasi apakah ide dan produk yang dibuat itu dibutuhkan oleh kita.
-Untuk membuat MVP tidak harus membuat fitur dari produk anda yang dapat digunakan, bisa membuat landing page dan perkenalan atau deskripsi dari produk yang akan dibuat, deep interview atau interview dengan customer dan bisa juga simulasi langsung." />
+	<meta name="keywords" content="Teknologi,Tips"><meta name="description" content=""><meta property="og:title" content="Create Laravel Command Aliases on Linux" />
+<meta property="og:description" content="Bagaimana cara menjalankan perintah yang dipakai dalam Laravel secara singkat? Anda masih menuliskan perintah berikut ini?
+ php artisan serve php artisan make:controller HomeController php artisan make:controller HomeController &ndash;resource php artisan make:model Post -m  Kenapa tidak menggunakan perintah berikut?
+ pas (php artisan serve) pm HomeController (php artisan make:controller HomeController) pmr HomeController (php artisan make:controller HomeController &ndash;resource) pmm Post (php artisan make:model $* -m)  Bingung gimana cara buatnya?" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://ihzarizkyk.space/artikel/apa-itu-mvp/" />
-<meta property="article:published_time" content="2020-10-01T06:50:54+07:00" />
-<meta property="article:modified_time" content="2020-10-01T06:50:54+07:00" />
+<meta property="og:url" content="http://ihzarizkyk.space/artikel/laravel-commands-aliases/" />
+<meta property="article:published_time" content="2021-07-15T08:14:25+07:00" />
+<meta property="article:modified_time" content="2021-07-15T08:14:25+07:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Apa Itu MVP?"/>
-<meta name="twitter:description" content="MVP (Minimum Viable Product) Adalah Sebuah Teknik atau Metode yang digunakan untuk membuat Product dengan Effort dan biaya seminimal mungkin untuk menguji apakah produk yang dibuat itu berguna untuk kebutuhan user atau konsumen nantinya.
-Tujuan dari MVP adalah untuk memvalidasi apakah ide dan produk yang dibuat itu dibutuhkan oleh kita.
-Untuk membuat MVP tidak harus membuat fitur dari produk anda yang dapat digunakan, bisa membuat landing page dan perkenalan atau deskripsi dari produk yang akan dibuat, deep interview atau interview dengan customer dan bisa juga simulasi langsung."/>
+<meta name="twitter:title" content="Create Laravel Command Aliases on Linux"/>
+<meta name="twitter:description" content="Bagaimana cara menjalankan perintah yang dipakai dalam Laravel secara singkat? Anda masih menuliskan perintah berikut ini?
+ php artisan serve php artisan make:controller HomeController php artisan make:controller HomeController &ndash;resource php artisan make:model Post -m  Kenapa tidak menggunakan perintah berikut?
+ pas (php artisan serve) pm HomeController (php artisan make:controller HomeController) pmr HomeController (php artisan make:controller HomeController &ndash;resource) pmm Post (php artisan make:model $* -m)  Bingung gimana cara buatnya?"/>
 
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/normalize.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/main.css" />
 	<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css" />
-	<title>Apa Itu MVP? | Ihza Rizky Blog</title></head>
+	<title>Create Laravel Command Aliases on Linux | Ihza Rizky Blog</title></head>
 <body><header>
 	
 	<div id="avatar">
@@ -78,22 +78,51 @@ Untuk membuat MVP tidak harus membuat fitur dari produk anda yang dapat digunaka
 		<div class="meta">
 			
 			<div class="date">
-				<span class="day">01</span>
-				<span class="rest">Oct 2020</span>
+				<span class="day">15</span>
+				<span class="rest">Jul 2021</span>
 			</div>
 			
 		</div>
 		
 		<div class="matter">
-			<h1 class="title">Apa Itu MVP?</h1>
+			<h1 class="title">Create Laravel Command Aliases on Linux</h1>
 		</div>
 	</div>
 	<div class="markdown">
-		<hr>
-<p>MVP (Minimum Viable Product) Adalah Sebuah Teknik atau Metode yang digunakan untuk membuat Product dengan Effort dan biaya seminimal mungkin untuk menguji apakah produk yang dibuat itu berguna untuk kebutuhan user atau konsumen nantinya.</p>
-<p>Tujuan dari MVP adalah untuk memvalidasi apakah ide dan produk yang dibuat itu dibutuhkan oleh kita.</p>
-<p>Untuk membuat MVP tidak harus membuat fitur dari produk anda yang dapat digunakan, bisa membuat landing page dan perkenalan atau deskripsi dari produk yang akan dibuat, deep interview atau interview dengan customer dan bisa juga simulasi langsung.</p>
-<p>Yang terpenting Customer harus bisa merasakan benefitnya dulu dan anda yang memiliki ide produk tersebut bisa mendapatkan feedback dari customer untuk mengembangkan produk selanjutnya menjadi lebih baik.</p>
+		<h3 id="bagaimana-cara-menjalankan-perintah-yang-dipakai-dalam-laravel-secara-singkat"><strong>Bagaimana cara menjalankan perintah yang dipakai dalam Laravel secara singkat?</strong></h3>
+<p><strong>Anda masih menuliskan perintah berikut ini?</strong></p>
+<ul>
+<li>php artisan serve</li>
+<li>php artisan make:controller HomeController</li>
+<li>php artisan make:controller HomeController &ndash;resource</li>
+<li>php artisan make:model Post -m</li>
+</ul>
+<p><strong>Kenapa tidak menggunakan perintah berikut?</strong></p>
+<ul>
+<li>pas (php artisan serve)</li>
+<li>pm HomeController (php artisan make:controller HomeController)</li>
+<li>pmr HomeController (php artisan make:controller HomeController &ndash;resource)</li>
+<li>pmm Post (php artisan make:model $* -m)</li>
+</ul>
+<p><strong>Bingung gimana cara buatnya?</strong></p>
+<p>Oke, langsung saja kita buat.</p>
+<ol>
+<li>Pertama, buka terminal dan ketikkan perintah sudo nano ~/.bashrc</li>
+<li>Kedua, Save dan exit</li>
+<li>Ketiga, ketikkan sudo nano ~/.bash_aliases</li>
+<li>Keempat copy perintah shortcut berikut :</li>
+</ol>
+<p>alias pas=&ldquo;php artisan serve&rdquo;
+alias pc=&ldquo;php artisan make:controller $* &quot;
+alias pcr=&ldquo;php artisan make:controller $* &ndash;resource&rdquo;
+alias pmm=&ldquo;php artisan make:model $* -m&rdquo;</p>
+<ol start="5">
+<li>Kelima, save dan exit</li>
+<li>Keenam, ketikkan source ~/.bashrc</li>
+<li>Ketujuh, restart terminal linux kamu</li>
+<li>Kedelapan, masuk ke direktori project laravelmu dan coba ketikkan perintah shortcut yang sudah kamu buat seperti diatas.</li>
+</ol>
+<p><strong>Selesai dan Semoga Bermanfaat</strong></p>
 
 	</div>
 	
@@ -184,28 +213,6 @@ Untuk membuat MVP tidak harus membuat fitur dari produk anda yang dapat digunaka
 			
 			
 			
-			<a href="/tags/startup-digital/"> startup-digital </a>
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
 			
 			
 			
@@ -229,6 +236,28 @@ Untuk membuat MVP tidak harus membuat fitur dari produk anda yang dapat digunaka
 			
 			
 			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			<a href="/tags/tips/"> tips </a>
 			
 			
 			
