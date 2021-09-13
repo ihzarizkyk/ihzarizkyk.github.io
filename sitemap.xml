@@ -1,247 +1,262 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/</loc>
-    <lastmod>2021-07-15T08:14:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/laravel-commands-aliases/</loc>
-    <lastmod>2021-07-15T08:14:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/</loc>
-    <lastmod>2021-07-15T08:14:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/</loc>
-    <lastmod>2021-07-15T08:14:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/teknologi/</loc>
-    <lastmod>2021-07-15T08:14:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/tips/</loc>
-    <lastmod>2021-07-15T08:14:25+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/pemrograman/</loc>
-    <lastmod>2021-04-18T20:33:09+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/rpe/</loc>
-    <lastmod>2021-04-18T20:33:09+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/leadership/</loc>
-    <lastmod>2021-02-02T14:15:58+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/self-concept/</loc>
-    <lastmod>2021-02-02T14:15:58+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/boilerplate/</loc>
-    <lastmod>2020-12-28T16:53:43+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/product-development/</loc>
-    <lastmod>2020-12-22T15:44:16+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/manajemen-proyek/</loc>
-    <lastmod>2020-12-22T15:44:16+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/agile-framework/</loc>
-    <lastmod>2020-12-17T12:29:18+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/agile-scrum/</loc>
-    <lastmod>2020-12-17T12:29:18+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/projek-manajemen/</loc>
-    <lastmod>2020-12-17T12:29:18+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/extreme-programming/</loc>
-    <lastmod>2020-12-11T13:48:40+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/metodologi-waterfall/</loc>
-    <lastmod>2020-12-10T22:39:44+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/manajemen-proyek/</loc>
-    <lastmod>2020-12-08T08:15:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/startup-digital/</loc>
-    <lastmod>2020-12-08T08:15:49+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/kehidupan-sosial/</loc>
-    <lastmod>2020-11-15T15:05:16+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/tak-perlu-pembuktian/</loc>
-    <lastmod>2020-11-15T15:05:16+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/sebelum-startup/</loc>
-    <lastmod>2020-11-11T19:23:50+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/mengenal-rest-api/</loc>
-    <lastmod>2020-11-03T18:55:09+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/buat-profile-readme-github/</loc>
-    <lastmod>2020-10-13T16:24:04+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/tutorial/</loc>
-    <lastmod>2020-10-13T16:24:04+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/ternary-operator-php-python/</loc>
-    <lastmod>2020-10-13T00:05:06+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/how-to-improve-writing-skills/</loc>
-    <lastmod>2020-10-08T20:09:32+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/tips-dan-trik/</loc>
-    <lastmod>2020-10-08T20:09:32+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/java-sebagai-bahasa-pbo/</loc>
-    <lastmod>2020-10-07T18:55:42+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/aarrr-framework/</loc>
-    <lastmod>2020-10-06T16:37:23+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/bisnis/</loc>
-    <lastmod>2020-10-06T16:37:23+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/apa-itu-mvp/</loc>
-    <lastmod>2020-10-01T06:50:54+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/aneh-viral/</loc>
-    <lastmod>2020-10-01T05:56:14+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/kontribusi-open-source-github/</loc>
-    <lastmod>2020-10-01T05:15:24+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/open-source/</loc>
-    <lastmod>2020-10-01T05:15:24+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/deploy-hugo-ke-github/</loc>
-    <lastmod>2020-09-27T09:18:54+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/hugo/</loc>
-    <lastmod>2020-09-27T09:18:54+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tags/inspirasi/</loc>
-    <lastmod>2020-09-27T03:39:59+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/karya-pertama/</loc>
-    <lastmod>2020-09-27T03:39:59+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/bingung-passion/</loc>
-    <lastmod>2020-09-27T03:15:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/tidak-semua-rencana-cerita/</loc>
-    <lastmod>2020-09-26T14:27:30+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/bias/</loc>
-    <lastmod>2020-09-26T13:54:30+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/membuat-folder-public-hugo/</loc>
-    <lastmod>2020-09-26T11:53:54+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/9-pilar-bmc/</loc>
-    <lastmod>2020-09-26T06:58:31+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/artikel/kamus-startup/</loc>
-    <lastmod>2020-09-24T06:48:07+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/portfolio/</loc>
-  </url>
-  
-  <url>
-    <loc>http://ihzarizkyk.space/tentang/</loc>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://ihzarizkyk.github.io/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tentang/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/portfolio/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/laravel-commands-aliases/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/rpe/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/self-concept/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/boilerplate/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/product-development/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/agile-scrum/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/extreme-programming/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/page/2/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/teknologi/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/tips/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/pemrograman/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/leadership/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/manajemen-proyek/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/agile-framework/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/projek-manajemen/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/metodologi-waterfall/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/manajemen-proyek/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/tak-perlu-pembuktian/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/sebelum-startup/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/mengenal-rest-api/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/buat-profile-readme-github/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/ternary-operator-php-python/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/page/3/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/java-sebagai-bahasa-pbo/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/aarrr-framework/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/apa-itu-mvp/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/kontribusi-open-source-github/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/deploy-hugo-ke-github/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/membuat-folder-public-hugo/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/9-pilar-bmc/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/kamus-startup/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/startup-digital/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/kehidupan-sosial/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/tutorial/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/how-to-improve-writing-skills/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/aneh-viral/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/page/4/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/bisnis/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/open-source/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/hugo/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/karya-pertama/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/bingung-passion/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/tidak-semua-rencana-cerita/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/artikel/bias/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/tips-dan-trik/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://ihzarizkyk.github.io/tags/inspirasi/</loc>
+  <lastmod>2021-09-12T04:35:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
 </urlset>
